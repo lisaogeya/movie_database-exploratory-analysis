@@ -1,4 +1,4 @@
-# Movie_database-SQL-exploratory-analysis
+# Movie_database-SQL-exploration
 
 This project is an exploration of a movie database using SQL (SQlite) and Jupyter notebooks, designed to uncover insights about films, genres, actors, and ratings. By analyzing structured data, the project aims to answer interesting questions about the movie industry, such as identifying top-rated movies, exploring trends across different genres, and examining patterns in movie releases over the years.
 
