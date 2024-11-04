@@ -6,4 +6,4 @@ This project is an exploration of a movie database using SQL, designed to uncove
 This data was sourced from [The movie database tmdb](https://www.themoviedb.org/)
 
 ## Entity Realtionship
-![E-R Diagram of the TMDB database](E-R diagram.png)
+![E-R Diagram of the TMDB database](E-RDiagram.png)
