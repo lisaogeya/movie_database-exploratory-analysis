@@ -11,3 +11,7 @@ This data was sourced from [The movie database tmdb](https://www.themoviedb.org/
 The TMDb database consists of 12 tables containing information about movies, cast, genre, and so much more.
 
 [Movie database SQL exploration notebook file](SQL_Movie_DB_Exploration.ipynb)
+
+## Exploratory Analysis Insights
+
+
